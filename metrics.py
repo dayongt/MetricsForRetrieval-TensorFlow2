@@ -1,4 +1,4 @@
-# implement map at k for hashing retrieval purpose in Tensorflow 2.3.0 
+
 import tensorflow as tf 
 import numpy as np 
 
