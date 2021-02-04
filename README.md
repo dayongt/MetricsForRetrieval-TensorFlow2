@@ -1,5 +1,5 @@
 # MetricsForRetrieval-TensorFlow2
-These file implement metrics to evaluate retrieval methods by TensorFlow 2. The retrieval can be done on real data matrix or binary data matrix. Specificly, binary data matrix retrieval refers to hashing. Hashing methods embed real data matrix to binary code matrix. This file implement metrics to evluate hashing methods in TensorFlow 2. Currently, it has two matrics: mean average precision (MAP) and F-measure.  
+This file implements metrics to evaluate retrieval methods by TensorFlow 2. The retrieval can be done on real data matrix or binary data matrix. Specificly, binary data matrix retrieval refers to hashing. Hashing methods embed real data matrix to binary code matrix. Currently, it has two matrics: mean average precision (MAP) and F-measure.  
 
 ## Requirement:
 TensorFlow 2.3.0  
